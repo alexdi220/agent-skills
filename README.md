@@ -1,6 +1,6 @@
 # **DevExpress AI Agent Skills**
 
-This repository stores DevExpress AI agent skills for [GitHub Copilot](https://github.com/features/copilot), [Claude Code](https://claude.ai/code), [Cursor](https://cursor.sh/), [JetBrains AI Assistant](https://www.jetbrains.com/ai/), and other AI coding assistants. Each skill contains DevExpress product knowledge: correct APIs, import paths, and ready-to-run code examples. This information helps your AI assistant generate accurate DevExpress code and reduce hallucinations and dependance on third-party libraries.
+This repository stores DevExpress AI agent skills for [GitHub Copilot](https://github.com/features/copilot), [Claude Code](https://claude.ai/code), [Cursor](https://cursor.sh/), [JetBrains AI Assistant](https://www.jetbrains.com/ai/), and other AI coding assistants. Each skill contains DevExpress product knowledge: correct APIs, import paths, and ready-to-run code examples. This information helps your AI assistant generate accurate DevExpress code and reduce hallucinations and dependence on third-party libraries.
 
 **See also:** The [DevExpress Documentation MCP Server](https://docs.devexpress.com/GeneralInformation/405551) connects AI assistants directly to 300,000+ DevExpress help topics. AI Agent Skills and the MCP Server complement each other. Skills encode patterns and guardrails. The MCP Server delivers live documentation lookup.
 
@@ -15,11 +15,8 @@ This repository stores DevExpress AI agent skills for [GitHub Copilot](https://g
 | [Office & PDF File API](plugins/dx-office-file-api/README.md)         | Spreadsheet, Word Processing, PDF, PDF New (CTP), Presentation, Barcode, Unit Conversion, Excel Export, ZIP, AI-powered Extensions | [Overview](https://docs.devexpress.com/OfficeFileAPI/) |
 | [XAF: Cross-Platform .NET App UI & Web API](plugins/dx-xaf/README.md) | Business Model, Business Logic, Business Logic XPO, Controllers, Views, Editors, Filtering, Filtering XPO, Appearance, Validation, Security, Reports, Performance | [Overview](https://docs.devexpress.com/eXpressAppFramework/) |
 | ASP.NET Core Controls | *(coming soon)* | [Overview](https://docs.devexpress.com/AspNetCore/) |
-
 | WinForms Controls | *(coming soon)* | [Overview](https://docs.devexpress.com/WindowsForms/) |
-
 | VCL Controls | *(coming soon)* | [Overview](https://docs.devexpress.com/VCL/) |
-
 | BI Dashboard | *(coming soon)* | [Overview](https://docs.devexpress.com/Dashboard/) |
 
 
@@ -101,21 +98,21 @@ To reference a skill manually, use /:
 After placing skill files in .github/skills/:
 
 1. Open Settings (Ctrl+, / Cmd+,).
-2. Search for `сhat.agent.skills`.
+2. Search for `chat.agent.skills`.
 3. Select **Chat: Use Agent Skills.**
 
 Use Copilot Chat in agent mode. Skills are activated automatically based on your question.
 
 #### **Visual Studio 2022 / 2026**
 
-Visual Studio reads skills from the same .github/skills/ folder. After copying the files, open Copilot Chat (View ? GitHub Copilot Chat) and switch to agent mode. No additional configuration is needed.
+Visual Studio reads skills from the same .github/skills/ folder. After copying the files, open Copilot Chat (View > GitHub Copilot Chat) and switch to agent mode. No additional configuration is needed.
 
 #### **JetBrains Rider / WebStorm**
 
 Skills are discovered by the [GitHub Copilot plugin](https://plugins.jetbrains.com/plugin/17718-github-copilot). After installing the plugin and signing in:
 
 1. Copy skill folders into .github/skills/ in your project root.
-2. Open the Copilot Chat panel (Tools ? GitHub Copilot ? Open GitHub Copilot Chat).
+2. Open the Copilot Chat panel (Tools > GitHub Copilot > Open GitHub Copilot Chat).
 3. Switch to agent mode.
 
 Skills are activated automatically based on your question.
@@ -136,11 +133,9 @@ cp -r plugins/dx-devextreme/skills/* ~/.cursor/skills/
 
 Skills activate automatically in agent mode. No additional configuration is needed once the files are in place.
 
-- [Cursor plugins documentation](https://cursor.com/docs/plugins)
-
 > /devextreme-datagrid How do I activate inline row editing?
 
-- [Cursor plugins documentation](https://cursor.com/docs/plugins) 
+- [Cursor plugins documentation](https://cursor.com/docs/plugins)
 - [Cursor skills documentation](https://cursor.com/docs/skills)
 
 ## **License**
