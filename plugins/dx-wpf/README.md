@@ -45,7 +45,7 @@ This plugin contains AI agent skills for [DevExpress WPF Controls](https://www.d
 |---|---|---|
 | [devexpress-wpf-layout-management](skills/devexpress-wpf-layout-management/) | Six layout containers (`DockLayoutManager`, `LayoutControl`, `DataLayoutControl`, `TileLayoutControl`, `FlowLayoutControl`, `DockLayoutControl`), layout persistence | [Layout Management Documentation](https://docs.devexpress.com/WPF/115547/controls-and-libraries/layout-management) |
 | [devexpress-wpf-ribbon-and-bars](skills/devexpress-wpf-ribbon-and-bars/) | Office-style command controls (Ribbon, toolbar, main menu, status bar), Quick Access Toolbar, Backstage View, MDI merging | [Ribbon and Bar Manager Documentation](https://docs.devexpress.com/WPF/115392/controls-and-libraries/ribbon-bars-and-menu) |
-| [devexpress-wpf-accordion](skills/devexpress-wpf-accordion/) | `AccordionControl` — hierarchical sidebar, Navigation Pane mode, built-in search, collapsed strip (glyphs only) | [Accordion Documentation](https://docs.devexpress.com/WPF/118347/controls-and-libraries/navigation-controls/accordion-control?p=netframework) |
+| [devexpress-wpf-accordion](skills/devexpress-wpf-accordion/) | `AccordionControl` — hierarchical sidebar, Navigation Pane mode, built-in search, collapsed strip (glyphs only) | [Accordion Documentation](https://docs.devexpress.com/WPF/118347/controls-and-libraries/navigation-controls/accordion-control) |
 | [devexpress-wpf-tab-control](skills/devexpress-wpf-tab-control/) | `DXTabControl` — tab mode management (multiLine, scroll, stretch), drag-and-drop tab reordering, accent colors, close and pin tabs | [Tab Control Documentation](https://docs.devexpress.com/WPF/7974/controls-and-libraries/layout-management/tab-control) |
 
 ---

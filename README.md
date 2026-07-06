@@ -11,11 +11,11 @@ This repository stores DevExpress AI agent skills for [GitHub Copilot](https://g
 | [DevExtreme JavaScript](plugins/dx-devextreme/README.md) | DataGrid, Scheduler, Form, Chat, Button, SelectBox, DateBox, CheckBox, NumberBox, TextBox, TextArea, DataSource, Theming | [Overview](https://js.devexpress.com/Documentation/) |
 | [Blazor Components](plugins/dx-blazor/README.md) | AI Chat, Charts, ComboBox, Gauges, Grid, Pivot Table, Ribbon, Scheduler, Toolbar, TreeList | [Overview](https://docs.devexpress.com/Blazor/) |
 | [WPF Controls](plugins/dx-wpf/README.md) | Data Grid, Tree List, Pivot Grid, Property Grid, Data Editors, Layout Management, Ribbon & Bars, Accordion, Tab Control, Charts, Scheduler, Loading Indicators, AI Chat, MVVM | [Overview](https://docs.devexpress.com/WPF/) |
+| [WinForms Controls](plugins/dx-winforms/README.md) | Data Grid, Tree List, Pivot Grid, Property Grid, Charts, Scheduler, AI Chat, Data Editors, Loading Indicators, Layout Management, Ribbon and Bars, Accordion, Tab Control, MVVM | [Overview](https://docs.devexpress.com/WindowsForms/) |
 | [DevExpress Reports](plugins/dx-reporting/README.md) | Core API, ASP.NET Core, Blazor, Visual Studio Designer | [Overview](https://docs.devexpress.com/XtraReports/) |
 | [Office & PDF File API](plugins/dx-office-file-api/README.md) | Spreadsheet, Word Processing, PDF, PDF New (CTP), Presentation, Barcode, Unit Conversion, Excel Export, ZIP, AI-powered Extensions | [Overview](https://docs.devexpress.com/OfficeFileAPI/) |
 | [XAF: Cross-Platform .NET App UI & Web API](plugins/dx-xaf/README.md) | Business Model, Business Logic, Business Logic XPO, Controllers, Views, Editors, Filtering, Filtering XPO, Appearance, Validation, Security, Reports, Performance | [Overview](https://docs.devexpress.com/eXpressAppFramework/) |
 | ASP.NET Core Controls | *(coming soon)* | [Overview](https://docs.devexpress.com/AspNetCore/) |
-| WinForms Controls | *(coming soon)* | [Overview](https://docs.devexpress.com/WindowsForms/) |
 | VCL Controls | *(coming soon)* | [Overview](https://docs.devexpress.com/VCL/) |
 | BI Dashboard | *(coming soon)* | [Overview](https://docs.devexpress.com/Dashboard/) |
 
