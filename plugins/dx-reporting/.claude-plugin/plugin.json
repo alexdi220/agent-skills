@@ -1,11 +1,11 @@
 {
   "name": "dx-reporting",
   "description": "DevExpress XtraReports skills for .NET, ASP.NET Core, Blazor, and Visual Studio designer code patterns: runtime report creation, web viewer/designer integration, safe *.Designer.cs edits, report storage, customization, and export (PDF, XLSX, DOCX, and more).",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "author": {
     "name": "DevExpress",
-    "email": "support@devexpress.com",
+    "email": "clientservices@devexpress.com",
     "url": "https://www.devexpress.com"
   },
   "skills": "./skills/",
