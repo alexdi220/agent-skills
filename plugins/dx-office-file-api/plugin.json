@@ -1,11 +1,11 @@
 {
   "name": "dx-office-file-api",
   "description": "DevExpress Office File API skills: Spreadsheet, Word Processing, legacy PDF, new PDF (CTP), Presentation, Barcode, Unit Conversion, Excel Export, Zip, and AI-Powered Extensions for headless .NET document automation.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "author": {
     "name": "DevExpress",
-    "email": "support@devexpress.com",
+    "email": "clientservices@devexpress.com",
     "url": "https://www.devexpress.com"
   },
   "skills": "./skills/",

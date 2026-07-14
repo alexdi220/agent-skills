@@ -1,11 +1,11 @@
 {
   "name": "dx-blazor",
   "description": "DevExpress Blazor skills: AI Chat, charts, gauges, Grid, Treelist, Pivot Table, Scheduler, Combo Box, Ribbon, and Toolbar.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "author": {
     "name": "DevExpress",
-    "email": "support@devexpress.com",
+    "email": "clientservices@devexpress.com",
     "url": "https://www.devexpress.com"
   },
   "skills": "./skills/",
